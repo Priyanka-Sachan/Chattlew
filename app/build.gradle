@@ -46,7 +46,9 @@ dependencies {
     //Firebase Cloud Storage
     implementation 'com.google.firebase:firebase-storage:19.1.1'
 
-    //Firebse Cloud Messaging
+    //Firebase Cloud Messaging
     implementation 'com.google.firebase:firebase-messaging:20.1.7'
 
+    //Firebase remote config
+    implementation 'com.google.firebase:firebase-config:19.1.4'
 }
